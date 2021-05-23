@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: org.apache.nifi.processors.WriteResourceToStreamTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.059 s <<< FAILURE! - in org.apache.nifi.processors.WriteResourceToStreamTest
+testProcessor(org.apache.nifi.processors.WriteResourceToStreamTest)  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.NoClassDefFoundError: org/apache/nifi/processors/WriteResourceToStream
+	at org.apache.nifi.processors.WriteResourceToStreamTest.init(WriteResourceToStreamTest.java:32)
+Caused by: java.lang.ClassNotFoundException: org.apache.nifi.processors.WriteResourceToStream
+	at org.apache.nifi.processors.WriteResourceToStreamTest.init(WriteResourceToStreamTest.java:32)
+

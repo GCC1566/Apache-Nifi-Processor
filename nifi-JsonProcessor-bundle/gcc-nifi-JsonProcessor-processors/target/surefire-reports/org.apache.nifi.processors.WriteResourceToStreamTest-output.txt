@@ -1,0 +1,1 @@
+Could not instantiate instance of class org.apache.nifi.processors.WriteResourceToStream due to: java.lang.NullPointerException

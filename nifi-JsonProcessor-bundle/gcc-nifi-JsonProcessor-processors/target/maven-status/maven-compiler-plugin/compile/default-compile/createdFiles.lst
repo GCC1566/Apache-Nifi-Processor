@@ -1,0 +1,5 @@
+org\apache\nifi\gcc\ruledistribute\logicrule\Logic.class
+org\apache\nifi\gcc\ruledistribute\Ruler.class
+org\apache\nifi\gcc\ruledistribute\logicrule\FieldValueRuler.class
+org\apache\nifi\gcc\processor\JsonDataDistributeProcessor.class
+org\apache\nifi\gcc\util\DataDealUtil.class
